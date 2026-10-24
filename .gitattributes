@@ -1,0 +1,2 @@
+# Preserve the reviewed bytes, including the original MATLAB line endings.
+* -text

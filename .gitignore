@@ -1,0 +1,34 @@
+# 课程数据、模型和本机生成结果默认不提交。
+/辅助文件/*
+!/辅助文件/README.md
+/五算法定位曲线输出/
+/定位/
+/历史版本/
+*.mat
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.pdf
+*.fig
+*.png
+*.zip
+*.rar
+*.csv
+!results/historical-summary.csv
+# 本机状态与凭据不进入仓库。
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.cert
+*.asv
+*.m~
+__pycache__/
+.DS_Store
+Thumbs.db
+node_modules/
+.venv/
+.idea/
+.vscode/
