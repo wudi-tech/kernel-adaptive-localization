@@ -80,3 +80,9 @@ results = MAIN_compare_xy;         % 组合图并保存本机结果
 - [第三方声明](THIRD_PARTY_NOTICES.md)、[许可状态](LICENSE_STATUS.md)：课程材料及相关上游权利不被本仓库重新授权。
 
 公开归档未附 MIT、Apache 等宽泛许可。原教学材料与相关实现的权利范围仍有未确认项；这里只整理可审阅的实现和说明，不宣称完成上游授权审查。
+
+## 历史 Wi-Fi 指纹定位与定位仿真组件
+
+[components/wifi-fingerprint](components/wifi-fingerprint/README.md) 保留 27 个历史 MATLAB 源文件、独立定位仿真、CSV 便携入口和微型合成检查。该组件使用教师提供并预处理的 **40/16** 实测 RSSI 指纹表，数据不公开，也不是本人采集。它与本页 **70/20** 五类核滤波的参数、成绩和验证历史分别解释；历史算法不宣称原创。
+
+2026-10-25 的新增组件验证在 MATLAB R2022a `-nojvm -batch` 下退出码 0；30 文件静态分析保留 92 条历史消息，新增 3 文件无消息。首次普通 batch 的退出异常与后续排查详见 [组件验证记录](components/wifi-fingerprint/docs/validation.md)。没有重跑教师数据或硬件实验。

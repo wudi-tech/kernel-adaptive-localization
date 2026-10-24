@@ -1,0 +1,129 @@
+{
+  "matlab_release": "R2022a",
+  "files": 30,
+  "analyzer_messages": 92,
+  "new_file_messages": 0,
+  "historical_messages_retained": 92,
+  "files_summary": [
+    {
+      "file": "matlab/run_fingerprint_csv.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/fingerprint/Fr_lms_r.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/fingerprint/Fr_rls_r.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/fingerprint/lms_r.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/fingerprint/rls_r.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/fingerprint/x_axisEstimate.m",
+      "message_count": 8
+    },
+    {
+      "file": "matlab/fingerprint/y_axisEstimate.m",
+      "message_count": 8
+    },
+    {
+      "file": "matlab/geometry/angles-timing/AOA.m",
+      "message_count": 6
+    },
+    {
+      "file": "matlab/geometry/angles-timing/TDOA.m",
+      "message_count": 11
+    },
+    {
+      "file": "matlab/geometry/centroid/CentroidLocalization.m",
+      "message_count": 4
+    },
+    {
+      "file": "matlab/geometry/centroid/circle.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/centroid/getDist.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/ranging/DIST.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/ranging/DIST3.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/ranging/GetDistByRssi.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/ranging/GetRssiValue.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/geometry/ranging/Least_squares_method_2D.m",
+      "message_count": 10
+    },
+    {
+      "file": "matlab/geometry/ranging/Least_squares_method_3D.m",
+      "message_count": 11
+    },
+    {
+      "file": "matlab/geometry/ranging/MCL.m",
+      "message_count": 10
+    },
+    {
+      "file": "matlab/geometry/ranging/MCL3D.m",
+      "message_count": 10
+    },
+    {
+      "file": "matlab/geometry/ranging/RSSI_2D.m",
+      "message_count": 10
+    },
+    {
+      "file": "matlab/series-benchmark/FrLMS.m",
+      "message_count": 1
+    },
+    {
+      "file": "matlab/series-benchmark/FrRLS.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/series-benchmark/LMS.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/series-benchmark/MAIN.m",
+      "message_count": 2
+    },
+    {
+      "file": "matlab/series-benchmark/RLS.m",
+      "message_count": 0
+    },
+    {
+      "file": "matlab/series-benchmark/alphanoise_create.m",
+      "message_count": 1
+    },
+    {
+      "file": "matlab/series-benchmark/stblrnd.m",
+      "message_count": 0
+    },
+    {
+      "file": "tests/check_static.m",
+      "message_count": 0
+    },
+    {
+      "file": "tests/test_micro_synthetic.m",
+      "message_count": 0
+    }
+  ]
+}
